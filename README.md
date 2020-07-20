@@ -5,3 +5,5 @@ A small collection of instructions about how to enable font ligatures in various
 
 Instructions:
 * [Notepad++](/instructions/notepad++.md)
+
+### [Fonts that support ligatures](/liga-fonts.md)
