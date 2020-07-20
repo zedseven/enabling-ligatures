@@ -18,3 +18,6 @@ editor2.Technology = SC_TECHNOLOGY_DIRECTWRITE
 ```
 
 Once done, simply restart Notepad++ and your changes should take effect. Remember, in order for this to work, you have to set the editor to use [a font that supports ligatures](/liga-fonts.md).
+
+
+Thank you to [dail8859 for this solution](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2287#issuecomment-256638098).
