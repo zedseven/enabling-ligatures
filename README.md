@@ -3,7 +3,17 @@
 
 A small collection of instructions about how to enable font ligatures in various text editors.
 
-Instructions:
+## What are ligatures?
+Ligatures are special inclusions in typefaces that show for specific combinations of characters, turning
+
+![this](/media/non-liga.png "this")
+
+into
+
+![this](/media/liga.png "this")
+
+
+## Instructions:
 * [Notepad++](/instructions/notepad++.md)
 
 ### [Fonts that support ligatures](/liga-fonts.md)
