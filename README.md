@@ -15,5 +15,6 @@ into
 
 ## Instructions:
 * [Notepad++](/instructions/notepad++.md)
+* [Visual Studio Code](instructions/visualstudiocode.md)
 
 ### [Fonts that support ligatures](/liga-fonts.md)
